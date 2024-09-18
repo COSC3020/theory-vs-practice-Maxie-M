@@ -16,7 +16,7 @@ Add your answers to this markdown file.
 
 ## Theory vs. Practice Answers, Maxie M. 
 
-  # 3 Reasons Why Asymptotic Analysis May be Misleading in Practice 
+## 3 Reasons Why Asymptotic Analysis May be Misleading in Practice 
 1. The first reason why  asymptotic analysis may be misleading with respect to actual performance in practice is small inputs. Asymptotic analysis mainly focuses on using bigger inputs (i.e., when n becomes very large). Although theoretically small inputs work with asymptomatic analysis, small inputs may cause worse performance in practice.
 2. The second reason why asymptotic analysis may be misleading with respect to actual performance in practice is due to constant factors. Asymptotic analysis doesn’t concern itself with constant factors, but these could affect the performance of the algorithm in practice.
 3. The third reason why asymptotic analysis may be misleading with respect to actual performance in practice is the hardware constraints. Asymptomatic analysis does not take into account the hardware being used to run the algorithm on. With this is, if the user is running the algorithm on sub-optimal machinery, there may be a possibility the time to run the algorithm increases greatly from what asymptotic analysis estimates on the amount of time it takes to run.
