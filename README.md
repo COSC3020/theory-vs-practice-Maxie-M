@@ -37,4 +37,5 @@ With this, this means that it will take about 6 to 7 seconds to find the same el
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
 ## Resources:
 https://www.cs.cornell.edu/courses/cs312/2004fa/lectures/lecture16.htm 
-Responsitories (theory-vs-practice-20gbrown and theory-vs-practice-ziyuWang6666)
+
+Responsitories: (theory-vs-practice-20gbrown and theory-vs-practice-ziyuWang6666)
